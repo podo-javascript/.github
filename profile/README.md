@@ -30,6 +30,18 @@ PR 제출 → 리뷰 → 머지**하는 방식으로 학습합니다.
 
 ---
 
+## 👻 Member
+
+| |
+|---|
+| <img src="https://github.com/tkp12345.png" width="80" style="border-radius:50%;" /> <br/> [홍길동](https://github.com/tkp12345) 
+| <img src="https://github.com/tkp12345.png" width="80" style="border-radius:50%;" /> <br/> [홍길동](https://github.com/tkp12345) 
+| <img src="https://github.com/tkp12345.png" width="80" style="border-radius:50%;" /> <br/> [홍길동](https://github.com/tkp12345) 
+
+|
+
+---
+
 
 
 
