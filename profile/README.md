@@ -19,7 +19,7 @@
 [![Closed PRs](https://img.shields.io/github/issues-pr-closed/podo-javascript/podo-mini-js-assignment?style=for-the-badge&color=brightgreen)](https://github.com/podo-javascript/podo-mini-js-assignment/pulls?q=is%3Apr+is%3Aclosed)
 
 
-PR 제출 → 리뷰 → 머지**하는 방식으로 학습합니다.  
+PR 제출 → 리뷰 → 머지 하는 방식으로 학습합니다.  
 코드 리뷰 과정을 통해 함께 진행하는 **라이브 코딩 세션**을 통해 문제 해결 과정과 사고 흐름을 직접 경험할 수 있습니다.
 
 ## 🤡 Mentor
